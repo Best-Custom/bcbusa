@@ -1,0 +1,8 @@
+html {
+    color: #222;
+    font-size: 16px;
+    line-height: 1.4;
+}
+audio, canvas, iframe, img, svg, video {
+    vertical-align: middle;
+}

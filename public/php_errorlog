@@ -1,0 +1,1 @@
+[06-Jun-2022 11:05:21 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SendContactFormEmail::contactFormEmails() in /home/customer/www/bestcustomboxes.com/public_html/bcb_usa/app/Http/Controllers/SendContactFormEmail.php on line 64

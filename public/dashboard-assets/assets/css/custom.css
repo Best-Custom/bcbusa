@@ -1,0 +1,24 @@
+.note-editor.note-airframe, .note-editor.note-frame {
+    border: 1px solid rgb(255 255 255 / 20%) !important;
+}
+.row-border {
+    border: 1px solid #ffffff14;
+    padding: 10px;
+}
+img.multiple_img {
+    width: 200px;
+}
+.close_img{
+    font-size: 25px;
+    position: absolute;
+    background-color: white;
+    color: black;
+}
+.coll_img_class{
+    margin-right: 10px;
+}
+.close_img:hover {
+    color: red;
+    font-size: 24px;
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /*
+Allow: *.js
+Allow: *.css
+Disallow: /cgi-bin/
+
+Sitemap: https://bestcustomboxes.com/sitemap.xml
